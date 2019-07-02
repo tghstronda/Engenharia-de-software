@@ -1,0 +1,8 @@
+a ferramenta utilizada e a kNN
+E uma linguagem simples de se trabalhar e precisa de um exemplo para classificar e diversificar quais caracteristicas algo tem.
+As desvantagems do kNN e a taxa de acerto depende do valor de quantos elementos ele ira comparar e a complexidadee computacional.
+Metodologia
+Dados ultilizados - estraidos de uma base de dados publicas e usa a classificação BI-RADS que tem categorias de 0  6 que vai desde de exame conclusivo a lesão maligna
+a xalssificação e ultilizada a ferramenta weka onde permiti ultilizar varias outras ferramentas
+
+Não desenvolveu, feito no excel-

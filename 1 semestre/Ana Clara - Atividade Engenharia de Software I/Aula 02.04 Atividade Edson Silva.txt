@@ -1,0 +1,33 @@
+ENGENHARIA DE SOFTWARE I
+
+Edson Silva
+
+
+	Aplicações Técnicas e Métodos de engenharia de software
+
+		-Escolher uma aplicação: stand-alone
+
+	São chamados stand alone , ou stand-alone (literalmente "ficam em pé por si só"), 
+aplicações completamente autossuficientes, executadas em um computador local, 
+contendo toda funcionalidade necessária sem precisar estar conectada a uma rede.
+
+	Então não necessitam de um software auxiliar, como um interpretador, sob o qual 
+serão executados.
+
+	Por exemplo, um programa Java é tipicamente compilado para bytecode e necessita de 
+uma Java Virtual Machine para ser executado. 
+
+	Já um programa escrito em C ou C++, depois de compilado e tornado executável, 
+poderia ser chamado standalone, uma vez que precisaria apenas de bibliotecas.
+
+	Programa emissor de Cupom Fiscal, aplicativos de escritório, software de manipulação
+de fotos, etc. 
+
+################
+
+Abordagem sistematica da engenharia de software
+
+*Mitos
+-Existem técnicas e métodos universais na ES adequedas a todas as empresas e a todos
+Sistemas?
+	Não

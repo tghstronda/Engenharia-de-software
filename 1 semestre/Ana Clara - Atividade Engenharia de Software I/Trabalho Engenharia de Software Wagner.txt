@@ -1,0 +1,18 @@
+Universidade Estadual de Goias Câmpus Santa Helena
+Academico : Wagner de Freitas Silva
+curso: Sistema de Informação         Período:5º  
+Professora: Ana Clara                Data:02/04/2019
+Diciplina: Engenharia de software
+
+
+                            Sistema de controle embutidos
+
+	Sistemas de controle embutidos. São sistemas de controle que controlam e gerenciam dispositivos de hardware. 
+Numericamente, é provável que haja mais sistemas embutidos do que de qualquer outro tipo. Exemplos de sistemas embutidos
+incluem software em telefone celular, softwares que controlam antitravamento de freios em um carro e software em um
+micro-ondas para controlar o processo de cozimento.
+	São software que servem para controle das ações e distribuição de tarefas do dispositivo eletronico. Bem como: 
+maquina de lavar, empressora, câmera digital, etc... No mercado esse tipo de Sistema e muito utilizado. Pois, quase todos os equi-
+pamento eletronicos a em si um sistema de controle embutidos.   
+
+   

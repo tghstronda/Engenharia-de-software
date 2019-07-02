@@ -1,0 +1,17 @@
+Universidade Estadual de Goias 
+Campus Samta Helena Goias 
+Docente: Ana Clara
+Discente: James Rosa de lima 
+Disciplina:Engenharia de software
+Periodo : 5 Periodo
+Data entrega: 02/04/2019
+
+
+							Engenharia de software: Sistemas de Sistemas 
+
+
+	As aplicações de desenvolvimento em engenharia de software variaam e tem muitas finalidades ou aplicações.
+	Segundo Sommerville as aplicações que ou sistemas que são compostos de muitos outros sistemas. Tendo essa ideia em mente chegamos podemos citar um sistema que tenha nele um subsistema ou programa que vai gerar para o usuario  um programa de planilha eletronica. Ou seja vem a ser  uma serie de produtos genericos do software.
+	 Tendo em mente esse exemplo podemos citar alem da planilha ou sistema que vai gerar para o usuario as informações inseridas e com base nessas informações gerar alguma anmação com falas que interagem com o usuario, nesse exemplo o sistema seria  o que armazena as informações e disponibilizam para os usuarios e o progrma que ira compor ele vem a ser o de gerar a animação para o mesmo , seja a de colocar efeitos na pagina ou  ate mesmo como ja dito de produzir falas para o usuario segundo o conhecimento adquirido na sua base de dados, mais um exemplo vem a ser um programa de leitura que disponibiliza um programa de envio para o email dos cliente alguma informçã solicitada.
+	Existem inumeros outros sistemas de conjunto que podem ser desenvolvidos ultilizando as tecnicas de engenharia de software que pode, ser escritos especialmente para esse ambiente.
+

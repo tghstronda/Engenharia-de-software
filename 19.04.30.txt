@@ -1,0 +1,16 @@
+modelo cascata
+
+Caracteristicas:
+
+- Linear 
+-Sequencial
+
+requerimento
+
+Reconhecer o problema
+Avaliar o problema e sintese da solução
+modelas 
+especificar os requisitos
+
+
+elaborar questoes sobre o mdelo cascata

@@ -1,0 +1,15 @@
+Universidade Estadual de Goias Câmpus Santa Helena
+Academico : Tiago Silva de Lima
+Professora: Ana Clara
+
+Engenharia de software
+
+
+                            Sistema para modelagem e simulação
+
+
+   Sistema de modelagem e simulação, é uma tecnica que permite criar em computadores, vários
+objetos separados que interagem entre si. E um sistema que faz o uso intensivo de 
+recurso computacionais e requerem máquina de alto desenpenho para executar.
+   Está tecnica foi desenvolvida por engenheiros e cientistas para modelar processos ou
+situações físicas.

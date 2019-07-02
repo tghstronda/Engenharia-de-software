@@ -1,0 +1,19 @@
+o ideal e que se cri eum software  viavel, confiavel e eficiente
+
+Engenharia de software
+
+reponsavel por todas a diretrizes do projeto e desenvolvimento de sistemas de software
+
+Analistas de software
+
+Responsavel por extrair conhecimentos dos usuarios e clientes para o desenvolvimetno de software, Especifica o software atravers de um modelo que o programador entenda
+
+Programador 
+
+responsavel em codificar o software de acordo com o projeto em linguagem de programação
+
+
+Disciplina que lida com a coma contruções de software
+
+
+ 
